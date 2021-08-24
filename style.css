@@ -135,9 +135,9 @@ header{
     margin-top: 1rem;
 }
 
-.card.total{
-    color: var(--green);
-    color: white;
+.card.total {
+    background: var(--green);
+    color: white;   
 }
 
 /* TABLE========== */
